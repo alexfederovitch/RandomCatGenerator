@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    /* width: 75%; */
+    margin: 0 auto; 
+}
+
+.title {
+    border: 3px solid green;
+}
+
+.button {
+    padding-top: 10px;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.display img {
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0.7);
+}
